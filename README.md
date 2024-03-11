@@ -13,3 +13,4 @@ Next, take the ComplementaryUnbound_r5.1.1.zip.txt file, and copy the location o
 Now, in Minecraft, go to options, then to Video Settings, then to shader packs, then complimentaryshaders, and then click on shader pack settings.
 Then at the top, there will be file exchange buttons, press the one to upload a settings file, and paste the path for ComplementaryUnbound_r5.1.1.zip.txt.
 Press Enter, Apply, and then you are done!
+EXTRA FEATURE: for more realisticness, apply the world outline setting
